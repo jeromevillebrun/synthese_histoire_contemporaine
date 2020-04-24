@@ -1,0 +1,13 @@
+*.aux
+*.log
+*.out
+*.fdb_latexmk
+*.fls
+*.xdv
+*.bbl
+*.bcf
+*.blg
+*.xml
+*.swp
+page_de_garde_fial.pdf
+main.pdf
